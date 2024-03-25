@@ -27,6 +27,7 @@ Known errors – the 2 images in flexbox 5 are not mobile responsive.
 
 
 References
+
 Anderson, S (December 8, 2021) How to design websites for blindness, deaf, disability & dyslexia. Hobo seo consultancy. https://www.hobo-web.co.uk/design-website-for-blind/
 
 Carnes, B (October 11, 2019) Flexbox - The Ultimate CSS Flex Cheatsheet (with animated diagrams!) Freecodecamp. https://www.freecodecamp.org/news/flexbox-the-ultimate-css-flex-cheatsheet/
