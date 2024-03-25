@@ -4,12 +4,14 @@ Abid Mir documentation readme file
 I have written this file for an assignment, highlighting information and pictures about myself.  It is written in HTML using Visual Studio Code.
 
 Website Design
+
 The CSS is included in an external file, as per professional practice.
 The flexbox layout framework has been used for the structure of the webpage, because of this the webpage is mobile and app responsive.  ‘Newer’ HTML tags compatibility was checked using caniuse.com 
  
 CSS flexbox layout allows you to easily format HTML. Flexbox makes it simple to align items vertically and horizontally using rows and columns. Items will "flex" to different sizes to fill the space. It makes responsive design easier. (Carnes 2019)
 
 Accessibility
+
 The fonts were chosen in accordance with ADA compliance standards. Using ADA compliant fonts during the web design process ensures that your content is easier to read, your site navigation is convenient, and that assistive technology such as screen readers functions as it should (Visser 2024).
 Colour can be ornamental, can help to establish a visual identity, and can have practical value (red might draw attention to important information) (Anderson 2021).
 Accessibility was also a factor when choosing the colours.  I have used colours which have been taken from the design website flatuicolors.com using their Aussie palette selection. These were selected by a graphic designer, and I have combined this with Githubs Accessible color palette builder which has selected the correct combinations of text and background colours to adhere to contrast principles.
